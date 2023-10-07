@@ -1,0 +1,15 @@
+D:\Work\second Task\WebApplication1\DAL\bin\Debug\net5.0\DAL.deps.json
+D:\Work\second Task\WebApplication1\DAL\bin\Debug\net5.0\DAL.runtimeconfig.json
+D:\Work\second Task\WebApplication1\DAL\bin\Debug\net5.0\DAL.runtimeconfig.dev.json
+D:\Work\second Task\WebApplication1\DAL\bin\Debug\net5.0\DAL.dll
+D:\Work\second Task\WebApplication1\DAL\bin\Debug\net5.0\DAL.pdb
+D:\Work\second Task\WebApplication1\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+D:\Work\second Task\WebApplication1\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\second Task\WebApplication1\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+D:\Work\second Task\WebApplication1\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+D:\Work\second Task\WebApplication1\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+D:\Work\second Task\WebApplication1\DAL\obj\Debug\net5.0\DAL.dll
+D:\Work\second Task\WebApplication1\DAL\obj\Debug\net5.0\refint\DAL.dll
+D:\Work\second Task\WebApplication1\DAL\obj\Debug\net5.0\DAL.pdb
+D:\Work\second Task\WebApplication1\DAL\obj\Debug\net5.0\DAL.genruntimeconfig.cache
+D:\Work\second Task\WebApplication1\DAL\obj\Debug\net5.0\ref\DAL.dll

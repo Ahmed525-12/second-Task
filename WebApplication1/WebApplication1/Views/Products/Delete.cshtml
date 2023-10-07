@@ -1,0 +1,26 @@
+﻿@model Products
+
+@{
+    ViewData["Title"] = "Delete";
+}
+<h1 class="h1 p-4"> you sure to Delete @Model.ProductName Product</h1>
+<form asp-action="delete">
+<div class="form-group">
+        <label asp-for="ProductName"></label>
+        <input readonly asp-for="ProductName" class="form-control">
+</div>
+<div class="form-group">
+        <label asp-for="ProductImage"></label>
+        <input readonly class="form-control" asp-for="ProductImage">
+
+</div>
+
+<div class="form-group">
+        <label asp-for="ProductDescription"></label>
+        <input readonly class="form-control" asp-for="ProductDescription">
+
+</div>
+
+<button type="submit" class="btn btn-danger">Delete Page</button>
+<a type="button" class="btn btn-outline-info" asp-action="Index">Back To List</a>
+</form>
